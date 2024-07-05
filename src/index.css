@@ -1,0 +1,22 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+.MuiList-root {
+  width: 100%;
+}
+
+.MuiListItem-root {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 16px;
+}
+
+.MuiButton-root {
+  margin-top: 16px;
+}
